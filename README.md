@@ -9,7 +9,7 @@ Aspiring data scientist with a background in psychology. Leveraging my knowledge
 <br>
 
 ## :dart: Find me Interesting? 
-**Say Hi to me on [LinkedIn](https://www.linkedin.com/in//sanjanashya27)** :heart: 
+**Say Hi to me on [LinkedIn](https://www.linkedin.com/in//sanjanashyam27)** :heart: 
 
 #### Any Project you want me a part of ?
 
