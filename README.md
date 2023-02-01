@@ -1,16 +1,18 @@
-### Hi there 👋
+## 👋 Hello World! I am Sanjana Shyam
 
-<!--
-**sanjanashyam27/sanjanashyam27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/sanjanashyam27) [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sanjanashyam27)
+<br><br>
+Aspiring data scientist with a background in psychology. Leveraging my knowledge of human behavior and motivation to solve real-world problems with data. Constantly learning and growing my skillset through passion projects and collaboration. Follow my journey on Github!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br>
+
+## :dart: Find me Interesting? 
+**Say Hi to me on [LinkedIn](https://www.linkedin.com/in//sanjanashya27)** :heart: 
+
+#### Any Project you want me a part of ?
+
+ - 👀 Ping me on [Twitter](https://twitter.com/sanjanashyam27)
+
+ - 💌 [sanjanashyam27@gmail.com](mailto:sanjanashyam27@gmail.com)
