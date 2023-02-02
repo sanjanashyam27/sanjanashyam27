@@ -4,6 +4,7 @@
 <br><br>
 Aspiring data scientist with a background in psychology. Leveraging my knowledge of human behavior and motivation to solve real-world problems with data. Constantly learning and growing my skillset through passion projects and collaboration. Follow my journey on Github!
 
+[![forthebadge python](http://ForTheBadge.com/images/badges/python.svg)](https://www.python.org/)
 
 
 <br>
