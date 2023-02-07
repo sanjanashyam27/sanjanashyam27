@@ -9,6 +9,8 @@ Aspiring data scientist with a background in psychology. Leveraging my knowledge
 [![](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)](https://github.com/sanjanashyam27)
 <br>
 
+## :dart:⚙️ Tech Stack I am Familiar With:
+
 ## :dart: Find me Interesting? 
 **Say Hi to me on [LinkedIn](https://www.linkedin.com/in//sanjanashyam27)** :heart: 
 
