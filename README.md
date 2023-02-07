@@ -9,9 +9,8 @@ Aspiring data scientist with a background in psychology. Leveraging my knowledge
 [![forthebadge python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/sanjanashyam27)
 [![forthebadge R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://github.com/sanjanashyam27)
 [![](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)](https://github.com/sanjanashyam27)
-<br>
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanjanashyam27)
-
+<br>
 ## :dart: Find me Interesting? 
 **Say Hi to me on [LinkedIn](https://www.linkedin.com/in//sanjanashyam27)** :heart: 
 
