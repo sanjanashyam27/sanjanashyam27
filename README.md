@@ -4,12 +4,12 @@
 <br><br>
 Aspiring data scientist with a background in psychology. Leveraging my knowledge of human behavior and motivation to solve real-world problems with data. Constantly learning and growing my skillset through passion projects and collaboration. Follow my journey on Github!
 
+## :⚙️ Tech Stack I am Familiar With:
+
 [![forthebadge python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/sanjanashyam27)
 [![forthebadge R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://github.com/sanjanashyam27)
 [![](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)](https://github.com/sanjanashyam27)
 <br>
-
-## :dart:⚙️ Tech Stack I am Familiar With:
 
 ## :dart: Find me Interesting? 
 **Say Hi to me on [LinkedIn](https://www.linkedin.com/in//sanjanashyam27)** :heart: 
